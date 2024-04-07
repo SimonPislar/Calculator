@@ -1,0 +1,17 @@
+1=pi
+(1=x)*(2=x)
+3=x
+x+y
+z+2=y
+3=z
+y
+y=f
+f+z*2
+f+x=g
+g
+f
+z
+(f+z*z)
+1=x
+x+1=x
+Quit

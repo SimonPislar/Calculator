@@ -1,0 +1,20 @@
+Enter an Expression: x
+Enter an Expression: 1.0
+Enter an Expression: 
+Printing Variables...
+x = 1.0
+
+Enter an Expression: 1.0
+Enter an Expression: 2.0
+Enter an Expression: 6.0
+Enter an Expression: 10.0
+Enter an Expression: 4.0
+Enter an Expression: 
+Printing Variables...
+x = 1.0
+
+Enter an Expression: 
+Quitting...
+Entered Expressions: 10
+Succesfully Evaluated Expressions: 7
+Fully Evaluated Expression 6

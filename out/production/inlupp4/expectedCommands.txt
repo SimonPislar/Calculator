@@ -1,0 +1,19 @@
+Enter an Expression: 1.0
+Enter an Expression: z
+Enter an Expression: 2.0
+Enter an Expression: 
+Printing Variables...
+x = 1.0
+y = z
+z = 2.0
+
+Enter an Expression: 
+Clearing variables...
+Enter an Expression: 
+No variables to print...
+
+Enter an Expression: 
+Quitting...
+Entered Expressions: 7
+Succesfully Evaluated Expressions: 3
+Fully Evaluated Expression 2

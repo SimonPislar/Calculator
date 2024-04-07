@@ -1,0 +1,10 @@
+function max(x,y)
+if x > y {x} else {y}
+End
+max(1,2)
+function factorial(n)
+n-1=m
+if n > 1 {factorial(m)*n} else {1}
+End
+factorial(5)
+Quit
