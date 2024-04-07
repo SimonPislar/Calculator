@@ -1,7 +1,0 @@
-1=x
-z=y
-2=z
-Vars
-Clear
-Vars
-Quit

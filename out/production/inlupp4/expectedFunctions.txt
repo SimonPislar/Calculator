@@ -1,9 +1,0 @@
-Enter an Expression: max
-Enter an Expression: 2.0
-Enter an Expression: factorial
-Enter an Expression: 120.0
-Enter an Expression: 
-Quitting...
-Entered Expressions: 5
-Succesfully Evaluated Expressions: 4
-Fully Evaluated Expression 2
